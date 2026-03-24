@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="chocolate_brown">#4E342E</color>
+    <color name="cream_bg">#F5E6D3</color>
+    <string name="app_name">Crumb Atelier</string>
+    <style name="Theme.CrumbAtelier" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream_bg</item>
+        <item name="android:statusBarColor">@color/chocolate_brown</item>
+    </style>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.CrumbAtelier" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/cream_bg</item>
+        <item name="android:statusBarColor">@color/chocolate_brown</item>
+    </style>
+</resources>
